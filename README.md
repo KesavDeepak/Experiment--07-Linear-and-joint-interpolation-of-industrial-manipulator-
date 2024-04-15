@@ -64,16 +64,3 @@ DART studio screen shots for joint interpolation
 
 ### Result :
 Thus ,linear and joint interpolation of industrial manipulator and program is executed.
-
-
-
-
-
-
-
-
-
-
-
-
-### Results:  
